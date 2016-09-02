@@ -13,3 +13,4 @@ SingleGene.pl			Script that extracts variants from a bam with specific formattin
 Fastq2Bam.pl			Creates bam and bam.bai files from fastqs.
 
 
+# ngs-validation-tools
