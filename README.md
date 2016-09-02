@@ -4,5 +4,3 @@ The following scripts have been useful for different steps of the mitochondrial 
 
 NOTE: Most of these programs will need to have directory paths modified, as these were written for internal use only.
 
-
-# ngs-validation-tools
